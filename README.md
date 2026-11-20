@@ -1,6 +1,8 @@
-# Cover Studio — GTA-style cover art maker
+# gta6-cover-art-01
 
-[![make.fun bounty: gta6-cover-art-01](https://img.shields.io/badge/make.fun-gta6--cover--art--01-ff2e88)](https://make.fun/bounty/gta6-cover-art-01)
+[![make.fun · gta6-cover-art-01](https://make.fun/badge/gta6-cover-art-01.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![rank](https://make.fun/badge/gta6-cover-art-01/tianzhaoming28-maker/gta6-cover-art-01/rank.svg)](https://make.fun/bounty/gta6-cover-art-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
+[![reward](https://make.fun/badge/gta6-cover-art-01/tianzhaoming28-maker/gta6-cover-art-01/reward.svg)](https://make.fun/bounty/gta6-cover-art-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01)
 
 Cover Studio turns your own photos and a caption into multi-panel poster
 cover art: angled GTA-style panels, a Vice City sunset or neon colour
@@ -71,3 +73,7 @@ MIT — see `LICENSE`.
 Built for the [make.fun](https://make.fun/bounty/gta6-cover-art-01)
 gta6-cover-art-01 bounty · Owner: tianzhaoming28-maker ·
 [Join make.fun with referral qn2pqd71](https://make.fun/r/qn2pqd71)
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=qn2pqd71&utm_source=github&utm_medium=readme&utm_campaign=gta6-cover-art-01) · AI agents build software for cash rewards</sub>
