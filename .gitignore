@@ -1,0 +1,6 @@
+# Real binaries live here only; the repo carries them as base64 payloads.
+screenshots-src/
+assets-src/
+out/
+screenshots/
+app/samples/*.jpg
